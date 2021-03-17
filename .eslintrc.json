@@ -21,6 +21,7 @@
 				"prettier"
     ],
     "rules": {
+      // "@typescript-eslint/explicit-module-boundary-types": "off",
 			"prettier/prettier": "error",
 			"camelcase": "off",
 			"import/no-unresolved": "error",
